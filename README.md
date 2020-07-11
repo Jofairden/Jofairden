@@ -8,6 +8,6 @@
   <a align="center" href="https://github.com/tModLoader/tModLoader">Github</a> | 
   <a align="center" href="https://github.com/tModLoader/tModLoader/wiki">Wiki</a> | 
   <a align="center" href="https://github.com/tModLoader/tModLoader/releases">Releases</a> | 
-  <a align="center" href="https://tmodloader.github.io/tModLoader/html/index.html">Documentation</a> | 
+  <a align="center" href="https://tmodloader.github.io/tModLoader/html/index.html">Documentation</a>
 </p>
 
