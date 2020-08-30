@@ -9,5 +9,8 @@
   <a align="center" href="https://github.com/tModLoader/tModLoader/wiki">Wiki</a> | 
   <a align="center" href="https://github.com/tModLoader/tModLoader/releases">Releases</a> | 
   <a align="center" href="https://tmodloader.github.io/tModLoader/html/index.html">Documentation</a>
+  <br />
+
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=jofairden&row=2&column=3)
