@@ -11,6 +11,6 @@
   <a align="center" href="https://tmodloader.github.io/tModLoader/html/index.html">Documentation</a>
   <br />
 
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=jofairden&row=2&column=3" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jofairden&row=2&column=3)
+</p>
