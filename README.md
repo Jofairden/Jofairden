@@ -12,5 +12,9 @@
   <br />
 
   <img src="https://github-profile-trophy.vercel.app/?username=jofairden&row=2&column=3" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jofairden&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jofairden&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jofairden" />
+  
+  
 </p>
